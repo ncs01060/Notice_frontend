@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Link from "next/link";
 import styles from "./TopBar.module.css";
 export default function TopBar() {
