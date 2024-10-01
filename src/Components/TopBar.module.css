@@ -1,0 +1,11 @@
+.topBar {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.topBar a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
